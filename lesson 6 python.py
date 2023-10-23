@@ -2,18 +2,18 @@ cours6: Les lists complex
 
 a=[1,2,"5","Name"] #comment écrire une list
 
-a.append("Margot") or a.add("Margot") #rajouter un élément dans la liste
+a.append("Ismael") or a.add("Ismael") #rajouter un élément dans la liste
 a.remove("Name") #retire un élémengt de la liste
 a[index]="ce que l'on veut changer" #permet de changer qqchose dans la liste 
 
 print(a[index])#affiche un seul element de la liste
 
 les tuples sont immutable
-a_tuple=("joe","margot",2021-01") #on ne peut pas ajouter , changer ou retirer
+a_tuple=("joe","Ismael",2021-01") #on ne peut pas ajouter , changer ou retirer
 
 
 les sets
-a_set={"Margot","joe","arthur"}
+a_set={"Ismael","joe","arthur"}
 
 int=[1,2,3,4]
 print(int)
